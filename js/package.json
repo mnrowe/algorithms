@@ -1,0 +1,24 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "A place to practice algorithms",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnrowe/algorithms.git"
+  },
+  "keywords": [],
+  "author": "Matthew Rowe",
+  "bugs": {
+    "url": "https://github.com/mnrowe/algorithms/issues"
+  },
+  "homepage": "https://github.com/mnrowe/algorithms#readme"
+}
